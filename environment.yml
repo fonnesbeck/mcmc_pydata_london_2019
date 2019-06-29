@@ -1,0 +1,27 @@
+name: bayes_tutorial
+dependencies:
+- python=3.7
+- cython
+- graphviz
+- ipython
+- ipywidgets
+- jupyter_client
+- jupyter_core
+- jupyterlab
+- lxml
+- matplotlib
+- mkl-service
+- notebook
+- numpy
+- pandas
+- patsy
+- pymc3
+- pydot
+- python-graphviz
+- scipy
+- seaborn
+- setuptools
+- xlrd
+- pip:
+  - autograd
+  - git+https://github.com/colcarroll/minimc.git
