@@ -1,6 +1,6 @@
-# PyData London 2019 Tutorial: Markov chain Monte Carlo with PyMC3
+# Markov chain Monte Carlo with PyMC3
+### PyData London 2019 Tutorial
 
----
 
 Markov chain Monte Carlo (MCMC) is the most common approach for performing Bayesian data analysis. MCMC is a general class of algorithms that uses simulation to estimate a variety of statistical models. This tutorial will introduce users how to use MCMC for fitting statistical models using PyMC3, a Python package for probabilistic programming.
 
