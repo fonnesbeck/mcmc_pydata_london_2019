@@ -1,4 +1,4 @@
-name: bayes_tutorial
+name: mcmc_tutorial
 dependencies:
 - python=3.7
 - cython
