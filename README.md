@@ -19,7 +19,12 @@ This tutorial is intended for analysts, data scientists and machine learning pra
     - The Metropolis algorithm
     - A better way: Hamiltonian Monte Carlo
 3. Building and Fitting Models with PyMC3
-    - Building blocks for Bayesian models
+    - Stochastic variables
+    - Custom distributions
+    - Deterministic variables
+    - Factor potentials
+    - MCMC sampling with step methods
+    - Missing data
 
 ## Setup
 

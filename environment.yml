@@ -26,3 +26,4 @@ dependencies:
 - pip:
   - autograd
   - git+https://github.com/colcarroll/minimc.git
+  - theano
