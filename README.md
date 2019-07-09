@@ -36,10 +36,14 @@ The next step is to clone or download the tutorial materials in this repository.
     
 otherwise you can [download a zip file](https://github.com/fonnesbeck/mcmc_pydata_london_2019/archive/master.zip) of its contents, and unzip it on your computer.
 
-The repository for this tutorial contains a file called `environment.yml` that includes a list of all the packages used for the tutorial. If you run
+The repository for this tutorial contains a file called `environment.yml` that includes a list of all the packages used for the tutorial. If you run:
 
     conda env create
     
 from the main tutorial directory, it will create the environment for you and install all of the packages listed. This environment can be enabled using:
 
     conda activate mcmc_tutorial
+    
+Then, I recommend using JupyterLab to access the materials:
+
+    jupyter lab
