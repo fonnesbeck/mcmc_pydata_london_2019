@@ -24,7 +24,7 @@ dependencies:
 - pymc3
 - pydot
 - python-graphviz
-- scipy
+- scipy=1.1.0
 - seaborn
 - setuptools
 - xlrd
