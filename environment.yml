@@ -1,4 +1,9 @@
 name: mcmc_tutorial
+
+channels:
+ - conda-forge
+ - anaconda
+
 dependencies:
 - python=3.7
 - cython
@@ -24,6 +29,7 @@ dependencies:
 - setuptools
 - xlrd
 - pip:
+  - arviz
   - autograd
   - git+https://github.com/colcarroll/minimc.git
   - theano
