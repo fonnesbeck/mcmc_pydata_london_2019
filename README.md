@@ -24,7 +24,11 @@ This tutorial is intended for analysts, data scientists and machine learning pra
     - Deterministic variables
     - Factor potentials
     - MCMC sampling with step methods
-    - Missing data
+4. Model Checking and Diagnostics
+    - Convergence diagnostics
+    - Autocorrelation
+    - Diagnostics for gradient-based samplers
+    - Posterior predictive checks
 
 ## Setup
 
