@@ -2,6 +2,7 @@
 ### Chris Fonnesbeck
 ### PyData London 2019 Tutorial
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fonnesbeck/mcmc_pydata_london_2019/master)
 
 Bayesian methods are powerful tools for data science applications, complimenting traditional statistical and machine learning methods. Importantly, Bayesian models generate predictions and inferences that fully account for uncertainty. The main tool for conducting Bayesian analysis is Markov chain Monte Carlo (MCMC), a computationally-intensive numerical approach that allows a wide variety of models to be estimated. MCMC algorithms are available in several Python libraries, including PyMC3. I will teach users a practical, effective workflow for applying Bayesian statistics using MCMC via PyMC3 using real-world examples.
 
