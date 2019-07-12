@@ -2,7 +2,6 @@ name: mcmc_tutorial
 
 channels:
  - conda-forge
- - anaconda
 
 dependencies:
 - python=3.7
@@ -12,7 +11,7 @@ dependencies:
 - ipywidgets
 - jupyter_client
 - jupyter_core
-- jupyterlab
+- conda-forge::jupyterlab>=1.0.2
 - lxml
 - matplotlib
 - mkl-service
